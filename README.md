@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=b9cbcf&height=300&section=header&text=AhnHz's%20Github!&fontSize=70)
+
+[![AhnHz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnHz&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <!--
 **AhnHz/AhnHz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

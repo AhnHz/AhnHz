@@ -1,17 +1,22 @@
 ### Hi there 👋
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=b9cbcf&height=300&section=header&text=AhnHz's%20Github!&fontSize=70)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&height=300&section=header&text=AhnHz's%20Github!&fontSize=70)
 
-[![AhnHz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnHz&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+<!--b9cbcf
+[![AhnHz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnHz&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
 
 [![AhnHz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AhnHz&show_icons=true&theme=apprentice#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![AhnHz's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AhnHz&show_icons=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnHz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AhnHz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhnHz&theme=github-dark-dimmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+[![AhnHz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhnHz)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

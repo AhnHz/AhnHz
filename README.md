@@ -1,5 +1,8 @@
 ### Hi there 👋
+
 <div align="center">
+
+![gitartwork](gitartwork.svg)
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&height=300&section=header&text=AhnHz's%20Github!&fontSize=70)
 

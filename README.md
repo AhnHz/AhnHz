@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dcdcdc&height=300&section=header&text=AhnHz's%20Github!&fontSize=70)
@@ -9,10 +7,12 @@
 -->
 
 
+Hi I'm Hyunju Ahn👋   
+
+  
 [![AhnHz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AhnHz&show_icons=true&rank_icon=github&hide_title=true&theme=apprentice#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![AhnHz's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AhnHz&show_icons=true&rank_icon=github&hide_title=true&theme=graywhite#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
+  
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnHz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->

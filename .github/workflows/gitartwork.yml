@@ -1,18 +1,29 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: AhnHz
-            # Text on contribution graph 
-            text: AhnHz
-       - uses: jasineri/simple-push-action@v1
+name: gitartwork from a contribution graph
+
+on:
+  schedule:
+    - cron: '0 */24 * * *'  # 24-hour interval (every day)
+  
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+      
+      - name: Generate gitartwork
+        id: gitartwork
+        uses: jasineri/gitartwork@v1
+        with:
+          user_name: AhnHz
+          text: AhnHz
+
+      - name: Push gitartwork to a repository
+        uses: ad-m/github-push-action@v0.6
+        with:
+          repository: AhnHz/gitartwork-repo  # Change to your repository name
+          branch: main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
